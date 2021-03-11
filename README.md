@@ -4,6 +4,12 @@ This repository contains the mechanical parts of the Pioupiou V1 wind sensor.
 
 <img src="https://raw.githubusercontent.com/pioupiou-archive/pioupiou-v1-mechanics/main/pioupiou.jpeg" width="30%">
 
+
+## DEPRECATION NOTICE
+**THIS REPOSITORY IS NO LONGER ACTIVE.**
+
+**PLEASE MOVE TO THE NEW PROJECT: https://github.com/windbird-sensor/windbird-mechanics**
+
 ## License
 
 Copyright (c) 2015 Bac Plus Zéro SAS
