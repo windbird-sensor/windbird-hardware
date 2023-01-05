@@ -1,8 +1,10 @@
 # windbird-mechanics
 
-This repository contains the mechanical parts of the Windbord wind sensor.
+This repository contains the mechanical parts of the Windbird wind sensor.
 
 <img src="https://github.com/windbird-sensor/windbird-mechanics/blob/main/pioupiou.jpeg" width="30%">
+
+# WORK IN PROGRESS
 
 ## License
 
