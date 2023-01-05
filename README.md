@@ -1,8 +1,8 @@
-# pioupiou-v1-mechanics
+# windbird-mechanics
 
-This repository contains the mechanical parts of the Pioupiou V1 wind sensor.
+This repository contains the mechanical parts of the Windbord wind sensor.
 
-<img src="https://raw.githubusercontent.com/pioupiou-archive/pioupiou-v1-mechanics/main/pioupiou.jpeg" width="30%">
+<img src="https://github.com/windbird-sensor/windbird-mechanics/blob/main/pioupiou.jpeg" width="30%">
 
 ## License
 
@@ -10,7 +10,7 @@ Copyright (c) 2015 Bac Plus Zéro SAS
 
 Copyright (c) 2016 Altostratus SA
 
-Copyright (c) 2021 OpenWindMap SCIC SA and contributors
+Copyright (c) 2021-2022 OpenWindMap SCIC SA and contributors
 
 **Permission is granted to anyone to use this Material for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:**
 
